@@ -11,15 +11,3 @@ services:
     volumes:
       - ./:/app
     command: "streamlit run app/main.py"
-
-  api:
-    build:
-      context: .
-      dockerfile: Dockerfile.api
-    runtime: nvidia
-    image: demo:api
-    ports:
-      - 5000:5000
-    volumes:
-      - ./:/app
-    command: "python api/main.py"
