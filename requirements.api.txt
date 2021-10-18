@@ -1,0 +1,10 @@
+cmake==3.21.3
+face_recognition==1.3.0
+ftfy==6.0.3
+regex==2021.9.30
+git+https://github.com/openai/CLIP.git#egg=CLIP
+opencv-python==4.5.3.56
+fastapi==0.68.2
+uvicorn==0.15.0
+python-multipart==0.0.5
+aiofiles==0.7.0

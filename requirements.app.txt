@@ -1,0 +1,5 @@
+streamlit==1.0.0
+requests==2.26.0
+streamlit-webcam-example==0.1.0
+geopy
+plotly

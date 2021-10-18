@@ -1,0 +1,7 @@
+FROM sbksinno/sbksinno:ubuntu18.04-cuda10.2-python3.9
+
+COPY requirements.api.txt requirements.api.txt
+
+RUN pip install -r requirements.api.txt
+
+RUN apt-get update && apt-get install -y ffmpeg libsm6 libxext6
