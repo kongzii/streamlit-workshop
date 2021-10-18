@@ -1,0 +1,16 @@
+{
+    "orig_filename": "SAD22O00H-A11@9.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/SAD22O00H-A11@9.jpg",
+    "orig_bbox": [
+        140,
+        378,
+        247,
+        270
+    ],
+    "deepface": {
+        "age": 30,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "neutral"
+    }
+}

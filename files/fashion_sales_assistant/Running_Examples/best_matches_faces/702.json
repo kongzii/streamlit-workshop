@@ -1,0 +1,16 @@
+{
+    "orig_filename": "VA222S02K-Q11@20.1.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/VA222S02K-Q11@20.1.jpg",
+    "orig_bbox": [
+        67,
+        325,
+        196,
+        196
+    ],
+    "deepface": {
+        "age": 28,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "fear"
+    }
+}

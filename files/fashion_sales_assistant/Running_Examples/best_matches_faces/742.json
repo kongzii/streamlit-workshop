@@ -1,0 +1,16 @@
+{
+    "orig_filename": "YO122O0E8-Q11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/YO122O0E8-Q11@8.jpg",
+    "orig_bbox": [
+        53,
+        268,
+        182,
+        139
+    ],
+    "deepface": {
+        "age": 27,
+        "gender": "Man",
+        "race": "asian",
+        "emotion": "neutral"
+    }
+}

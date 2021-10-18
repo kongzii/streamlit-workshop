@@ -1,0 +1,16 @@
+{
+    "orig_filename": "VA221J040-Q11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/VA221J040-Q11@8.jpg",
+    "orig_bbox": [
+        96,
+        368,
+        225,
+        239
+    ],
+    "deepface": {
+        "age": 27,
+        "gender": "Woman",
+        "race": "white",
+        "emotion": "neutral"
+    }
+}

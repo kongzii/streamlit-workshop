@@ -1,0 +1,16 @@
+{
+    "orig_filename": "NA622O02S-E11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/NA622O02S-E11@8.jpg",
+    "orig_bbox": [
+        110,
+        368,
+        239,
+        239
+    ],
+    "deepface": {
+        "age": 27,
+        "gender": "Man",
+        "race": "asian",
+        "emotion": "fear"
+    }
+}

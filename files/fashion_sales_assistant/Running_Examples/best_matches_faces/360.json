@@ -1,0 +1,16 @@
+{
+    "orig_filename": "LA222O01W-A11@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/LA222O01W-A11@10.jpg",
+    "orig_bbox": [
+        39,
+        483,
+        168,
+        354
+    ],
+    "deepface": {
+        "age": 23,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "surprise"
+    }
+}

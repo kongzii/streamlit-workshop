@@ -1,0 +1,16 @@
+{
+    "orig_filename": "PU122S037-C11@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/PU122S037-C11@10.jpg",
+    "orig_bbox": [
+        67,
+        354,
+        196,
+        225
+    ],
+    "deepface": {
+        "age": 29,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "angry"
+    }
+}

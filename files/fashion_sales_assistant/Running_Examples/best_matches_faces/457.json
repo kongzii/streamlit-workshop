@@ -1,0 +1,16 @@
+{
+    "orig_filename": "OS322O0AW-K12@8.1.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/OS322O0AW-K12@8.1.jpg",
+    "orig_bbox": [
+        53,
+        397,
+        182,
+        268
+    ],
+    "deepface": {
+        "age": 24,
+        "gender": "Man",
+        "race": "asian",
+        "emotion": "fear"
+    }
+}

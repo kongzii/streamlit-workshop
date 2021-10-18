@@ -1,0 +1,16 @@
+{
+    "orig_filename": "ED122O0GR-Q11@8(1).jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/ED122O0GR-Q11@8(1).jpg",
+    "orig_bbox": [
+        47,
+        356,
+        202,
+        201
+    ],
+    "deepface": {
+        "age": 24,
+        "gender": "Man",
+        "race": "latino hispanic",
+        "emotion": "neutral"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "orig_filename": "ZX029J001-Q11@11.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/ZX029J001-Q11@11.jpg",
+    "orig_bbox": [
+        116,
+        426,
+        223,
+        318
+    ],
+    "deepface": {
+        "age": 30,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "angry"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "orig_filename": "TP822O0P8-K11@8.1.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/TP822O0P8-K11@8.1.jpg",
+    "orig_bbox": [
+        67,
+        368,
+        196,
+        239
+    ],
+    "deepface": {
+        "age": 24,
+        "gender": "Man",
+        "race": "asian",
+        "emotion": "neutral"
+    }
+}

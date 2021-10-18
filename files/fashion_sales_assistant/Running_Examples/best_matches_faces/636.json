@@ -1,0 +1,16 @@
+{
+    "orig_filename": "TO141G00T-Q11@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/TO141G00T-Q11@10.jpg",
+    "orig_bbox": [
+        56,
+        390,
+        163,
+        282
+    ],
+    "deepface": {
+        "age": 30,
+        "gender": "Woman",
+        "race": "white",
+        "emotion": "happy"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "orig_filename": "UM421J004-C11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/UM421J004-C11@8.jpg",
+    "orig_bbox": [
+        39,
+        354,
+        168,
+        225
+    ],
+    "deepface": {
+        "age": 31,
+        "gender": "Man",
+        "race": "asian",
+        "emotion": "angry"
+    }
+}

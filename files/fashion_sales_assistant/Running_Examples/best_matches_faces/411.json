@@ -1,0 +1,16 @@
+{
+    "orig_filename": "NA622S02H-C11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/NA622S02H-C11@8.jpg",
+    "orig_bbox": [
+        47,
+        373,
+        202,
+        218
+    ],
+    "deepface": {
+        "age": 40,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "fear"
+    }
+}

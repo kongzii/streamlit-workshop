@@ -1,0 +1,16 @@
+{
+    "orig_filename": "BI722O056-Q11@12.1.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/BI722O056-Q11@12.1.jpg",
+    "orig_bbox": [
+        53,
+        325,
+        182,
+        196
+    ],
+    "deepface": {
+        "age": 34,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "happy"
+    }
+}

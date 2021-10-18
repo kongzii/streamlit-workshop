@@ -1,0 +1,16 @@
+{
+    "orig_filename": "HU342G012-C12@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/HU342G012-C12@8.jpg",
+    "orig_bbox": [
+        110,
+        268,
+        239,
+        139
+    ],
+    "deepface": {
+        "age": 33,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "sad"
+    }
+}

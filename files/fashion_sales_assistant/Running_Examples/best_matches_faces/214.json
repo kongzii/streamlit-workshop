@@ -1,0 +1,16 @@
+{
+    "orig_filename": "EL822S05D-C11@3.2.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/EL822S05D-C11@3.2.jpg",
+    "orig_bbox": [
+        82,
+        368,
+        211,
+        239
+    ],
+    "deepface": {
+        "age": 24,
+        "gender": "Man",
+        "race": "middle eastern",
+        "emotion": "happy"
+    }
+}

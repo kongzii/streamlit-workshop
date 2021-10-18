@@ -1,0 +1,16 @@
+{
+    "orig_filename": "ZA821J00B-C12@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/ZA821J00B-C12@8.jpg",
+    "orig_bbox": [
+        67,
+        311,
+        196,
+        182
+    ],
+    "deepface": {
+        "age": 27,
+        "gender": "Woman",
+        "race": "white",
+        "emotion": "surprise"
+    }
+}

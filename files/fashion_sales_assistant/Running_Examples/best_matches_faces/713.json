@@ -1,0 +1,16 @@
+{
+    "orig_filename": "VD122S002-K11@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/VD122S002-K11@10.jpg",
+    "orig_bbox": [
+        125,
+        296,
+        254,
+        167
+    ],
+    "deepface": {
+        "age": 26,
+        "gender": "Man",
+        "race": "latino hispanic",
+        "emotion": "fear"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "orig_filename": "MEJ21J002-Q11@4.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/MEJ21J002-Q11@4.jpg",
+    "orig_bbox": [
+        53,
+        368,
+        182,
+        239
+    ],
+    "deepface": {
+        "age": 29,
+        "gender": "Woman",
+        "race": "white",
+        "emotion": "neutral"
+    }
+}

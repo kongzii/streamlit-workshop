@@ -1,0 +1,16 @@
+{
+    "orig_filename": "TP822S0CC-Q11@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/TP822S0CC-Q11@10.jpg",
+    "orig_bbox": [
+        53,
+        296,
+        182,
+        167
+    ],
+    "deepface": {
+        "age": 26,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "angry"
+    }
+}

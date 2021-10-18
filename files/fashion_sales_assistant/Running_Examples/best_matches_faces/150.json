@@ -1,0 +1,16 @@
+{
+    "orig_filename": "CO422O06F-A11@7.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/CO422O06F-A11@7.jpg",
+    "orig_bbox": [
+        82,
+        339,
+        211,
+        210
+    ],
+    "deepface": {
+        "age": 28,
+        "gender": "Man",
+        "race": "asian",
+        "emotion": "happy"
+    }
+}

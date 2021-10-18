@@ -1,0 +1,16 @@
+{
+    "orig_filename": "DI621J005-O11@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/DI621J005-O11@10.jpg",
+    "orig_bbox": [
+        163,
+        354,
+        271,
+        247
+    ],
+    "deepface": {
+        "age": 31,
+        "gender": "Woman",
+        "race": "asian",
+        "emotion": "sad"
+    }
+}

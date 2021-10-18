@@ -1,0 +1,16 @@
+{
+    "orig_filename": "OS322S0BM-Q11@20.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/OS322S0BM-Q11@20.jpg",
+    "orig_bbox": [
+        44,
+        402,
+        152,
+        294
+    ],
+    "deepface": {
+        "age": 26,
+        "gender": "Man",
+        "race": "latino hispanic",
+        "emotion": "surprise"
+    }
+}

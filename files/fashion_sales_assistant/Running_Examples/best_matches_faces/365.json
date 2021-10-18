@@ -1,0 +1,16 @@
+{
+    "orig_filename": "LE222O034-A12@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/LE222O034-A12@8.jpg",
+    "orig_bbox": [
+        67,
+        411,
+        196,
+        282
+    ],
+    "deepface": {
+        "age": 24,
+        "gender": "Man",
+        "race": "asian",
+        "emotion": "surprise"
+    }
+}

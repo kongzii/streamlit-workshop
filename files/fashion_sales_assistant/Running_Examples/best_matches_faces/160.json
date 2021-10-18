@@ -1,0 +1,16 @@
+{
+    "orig_filename": "CS622S040-Q11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/CS622S040-Q11@8.jpg",
+    "orig_bbox": [
+        67,
+        397,
+        196,
+        268
+    ],
+    "deepface": {
+        "age": 25,
+        "gender": "Man",
+        "race": "middle eastern",
+        "emotion": "sad"
+    }
+}

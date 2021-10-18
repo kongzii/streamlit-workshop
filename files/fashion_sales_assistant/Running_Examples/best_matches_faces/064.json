@@ -1,0 +1,16 @@
+{
+    "orig_filename": "AD122O0AO-J12@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/AD122O0AO-J12@10.jpg",
+    "orig_bbox": [
+        82,
+        382,
+        211,
+        253
+    ],
+    "deepface": {
+        "age": 26,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "fear"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "orig_filename": "MA322S02Z-G11@12.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/MA322S02Z-G11@12.jpg",
+    "orig_bbox": [
+        67,
+        397,
+        196,
+        268
+    ],
+    "deepface": {
+        "age": 30,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "happy"
+    }
+}

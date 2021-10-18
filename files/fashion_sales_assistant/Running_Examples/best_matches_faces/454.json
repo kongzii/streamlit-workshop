@@ -1,0 +1,16 @@
+{
+    "orig_filename": "ON542G01T-K11@35.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/ON542G01T-K11@35.jpg",
+    "orig_bbox": [
+        47,
+        322,
+        202,
+        167
+    ],
+    "deepface": {
+        "age": 34,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "surprise"
+    }
+}

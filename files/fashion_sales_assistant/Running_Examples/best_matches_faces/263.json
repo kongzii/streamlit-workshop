@@ -1,0 +1,16 @@
+{
+    "orig_filename": "GU122O070-Q11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/GU122O070-Q11@8.jpg",
+    "orig_bbox": [
+        64,
+        442,
+        219,
+        287
+    ],
+    "deepface": {
+        "age": 25,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "surprise"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "orig_filename": "GA321J02B-A11@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/GA321J02B-A11@10.jpg",
+    "orig_bbox": [
+        82,
+        397,
+        211,
+        268
+    ],
+    "deepface": {
+        "age": 31,
+        "gender": "Woman",
+        "race": "white",
+        "emotion": "sad"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "orig_filename": "DI122S038-Q11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/DI122S038-Q11@8.jpg",
+    "orig_bbox": [
+        67,
+        425,
+        196,
+        296
+    ],
+    "deepface": {
+        "age": 32,
+        "gender": "Man",
+        "race": "middle eastern",
+        "emotion": "neutral"
+    }
+}

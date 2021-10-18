@@ -1,0 +1,16 @@
+{
+    "orig_filename": "GP022O04J-K11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/GP022O04J-K11@8.jpg",
+    "orig_bbox": [
+        67,
+        296,
+        196,
+        167
+    ],
+    "deepface": {
+        "age": 26,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "disgust"
+    }
+}

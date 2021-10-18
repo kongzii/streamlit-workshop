@@ -1,0 +1,16 @@
+{
+    "orig_filename": "PS722O01E-Q11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/PS722O01E-Q11@8.jpg",
+    "orig_bbox": [
+        80,
+        366,
+        187,
+        259
+    ],
+    "deepface": {
+        "age": 31,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "neutral"
+    }
+}

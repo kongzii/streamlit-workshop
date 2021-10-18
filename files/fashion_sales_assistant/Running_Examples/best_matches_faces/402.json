@@ -1,0 +1,16 @@
+{
+    "orig_filename": "MN841G001-G11@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/MN841G001-G11@10.jpg",
+    "orig_bbox": [
+        125,
+        382,
+        254,
+        253
+    ],
+    "deepface": {
+        "age": 31,
+        "gender": "Man",
+        "race": "latino hispanic",
+        "emotion": "neutral"
+    }
+}

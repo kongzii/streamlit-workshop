@@ -1,0 +1,16 @@
+{
+    "orig_filename": "GA322S01V-A11@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/GA322S01V-A11@10.jpg",
+    "orig_bbox": [
+        67,
+        411,
+        196,
+        282
+    ],
+    "deepface": {
+        "age": 28,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "angry"
+    }
+}

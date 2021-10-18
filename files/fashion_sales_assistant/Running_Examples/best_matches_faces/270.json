@@ -1,0 +1,16 @@
+{
+    "orig_filename": "GY322S002-N11@10.1.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/GY322S002-N11@10.1.jpg",
+    "orig_bbox": [
+        30,
+        322,
+        184,
+        167
+    ],
+    "deepface": {
+        "age": 25,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "neutral"
+    }
+}

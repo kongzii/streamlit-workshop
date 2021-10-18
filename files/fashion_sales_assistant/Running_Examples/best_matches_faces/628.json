@@ -1,0 +1,16 @@
+{
+    "orig_filename": "THJ21J008-G11@6.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/THJ21J008-G11@6.jpg",
+    "orig_bbox": [
+        64,
+        339,
+        219,
+        184
+    ],
+    "deepface": {
+        "age": 31,
+        "gender": "Woman",
+        "race": "white",
+        "emotion": "fear"
+    }
+}

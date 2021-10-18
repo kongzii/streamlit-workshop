@@ -1,0 +1,16 @@
+{
+    "orig_filename": "ZA821J00B-C11@9.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/ZA821J00B-C11@9.jpg",
+    "orig_bbox": [
+        92,
+        354,
+        199,
+        247
+    ],
+    "deepface": {
+        "age": 32,
+        "gender": "Woman",
+        "race": "middle eastern",
+        "emotion": "fear"
+    }
+}

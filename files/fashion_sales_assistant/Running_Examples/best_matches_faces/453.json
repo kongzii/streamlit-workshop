@@ -1,0 +1,16 @@
+{
+    "orig_filename": "ON541G025-K11@12.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/ON541G025-K11@12.jpg",
+    "orig_bbox": [
+        140,
+        390,
+        247,
+        282
+    ],
+    "deepface": {
+        "age": 30,
+        "gender": "Woman",
+        "race": "white",
+        "emotion": "sad"
+    }
+}

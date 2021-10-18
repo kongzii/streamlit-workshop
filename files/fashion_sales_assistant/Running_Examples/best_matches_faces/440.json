@@ -1,0 +1,16 @@
+{
+    "orig_filename": "NS422S01G-M12@9.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/NS422S01G-M12@9.jpg",
+    "orig_bbox": [
+        152,
+        294,
+        259,
+        187
+    ],
+    "deepface": {
+        "age": 32,
+        "gender": "Man",
+        "race": "indian",
+        "emotion": "neutral"
+    }
+}

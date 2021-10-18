@@ -1,0 +1,16 @@
+{
+    "orig_filename": "JAL22O001-Q11@7.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/JAL22O001-Q11@7.jpg",
+    "orig_bbox": [
+        116,
+        364,
+        206,
+        275
+    ],
+    "deepface": {
+        "age": 31,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "neutral"
+    }
+}

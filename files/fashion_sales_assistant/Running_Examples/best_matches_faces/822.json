@@ -1,0 +1,16 @@
+{
+    "orig_filename": "img_0369.jpeg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/img_0369.jpeg",
+    "orig_bbox": [
+        80,
+        278,
+        155,
+        204
+    ],
+    "deepface": {
+        "age": 30,
+        "gender": "Woman",
+        "race": "white",
+        "emotion": "angry"
+    }
+}

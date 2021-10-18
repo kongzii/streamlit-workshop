@@ -1,0 +1,16 @@
+{
+    "orig_filename": "JA222O206-K11@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/JA222O206-K11@8.jpg",
+    "orig_bbox": [
+        53,
+        382,
+        182,
+        253
+    ],
+    "deepface": {
+        "age": 24,
+        "gender": "Man",
+        "race": "asian",
+        "emotion": "surprise"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "orig_filename": "KN222O000-M13@8.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/KN222O000-M13@8.jpg",
+    "orig_bbox": [
+        67,
+        325,
+        196,
+        196
+    ],
+    "deepface": {
+        "age": 23,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "neutral"
+    }
+}

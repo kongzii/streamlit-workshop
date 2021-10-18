@@ -1,0 +1,16 @@
+{
+    "orig_filename": "DI122S03U-A11@7.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/DI122S03U-A11@7.jpg",
+    "orig_bbox": [
+        98,
+        442,
+        253,
+        287
+    ],
+    "deepface": {
+        "age": 25,
+        "gender": "Man",
+        "race": "latino hispanic",
+        "emotion": "neutral"
+    }
+}

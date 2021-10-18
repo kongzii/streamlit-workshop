@@ -1,0 +1,16 @@
+{
+    "orig_filename": "GOG22S007-E11@11.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/GOG22S007-E11@11.jpg",
+    "orig_bbox": [
+        80,
+        426,
+        187,
+        318
+    ],
+    "deepface": {
+        "age": 26,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "sad"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "orig_filename": "ED322O01V-G11@10.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/ED322O01V-G11@10.jpg",
+    "orig_bbox": [
+        67,
+        368,
+        196,
+        239
+    ],
+    "deepface": {
+        "age": 25,
+        "gender": "Man",
+        "race": "middle eastern",
+        "emotion": "disgust"
+    }
+}

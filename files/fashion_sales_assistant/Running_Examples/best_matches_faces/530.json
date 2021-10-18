@@ -1,0 +1,16 @@
+{
+    "orig_filename": "S2821I04T-I11@12.1.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/S2821I04T-I11@12.1.jpg",
+    "orig_bbox": [
+        56,
+        366,
+        163,
+        259
+    ],
+    "deepface": {
+        "age": 31,
+        "gender": "Man",
+        "race": "white",
+        "emotion": "fear"
+    }
+}

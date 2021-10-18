@@ -1,0 +1,16 @@
+{
+    "orig_filename": "WEB22S027-K11@9.jpg",
+    "orig_location": "../../data/best_matches/best_matches_for_each_selfie/WEB22S027-K11@9.jpg",
+    "orig_bbox": [
+        116,
+        373,
+        270,
+        218
+    ],
+    "deepface": {
+        "age": 26,
+        "gender": "Man",
+        "race": "latino hispanic",
+        "emotion": "sad"
+    }
+}
