@@ -1,8 +1,0 @@
-[server]
-address = "0.0.0.0"
-port = 80
-
-[mapbox]
-
-# Configure Streamlit to use a custom Mapbox token for elements like st.pydeck_chart and st.map. To get a token for yourself, create an account at https://mapbox.com. It's free (for moderate usage levels)!
-token = "pk.eyJ1IjoibGVzanVuZyIsImEiOiJja3VtY2U4bXEwaWQyMzJwZmw2NWQ4eXI2In0.-OOxtOeaHFCT2dkpEHrf-w"
